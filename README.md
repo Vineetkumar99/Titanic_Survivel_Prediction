@@ -1,6 +1,7 @@
 
 # Titanic_Survivel_Prediction
-![1_iYS04BgpQIWrL6bLCHq3pA](https://www.dw.com/en/10-things-about-the-titanic-you-probably-didnt-know/a-61368562)
+![App Screenshot](https://www.dw.com/en/10-things-about-the-titanic-you-probably-didnt-know/a-61368562)
+
 ## Overview
 
 **The data has been split into two groups:**
