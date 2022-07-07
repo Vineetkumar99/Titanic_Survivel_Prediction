@@ -23,7 +23,7 @@ embarked	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton
 
 
 # Variable Notes
-pclass: A proxy for socio-economic status (SES)(br/)
+pclass: A proxy for socio-economic status (SES)(/br)
 1st = Upper
 2nd = Middle
 3rd = Lower
