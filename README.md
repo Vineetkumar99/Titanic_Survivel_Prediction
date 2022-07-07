@@ -1,6 +1,7 @@
 
 # Titanic_Survivel_Prediction
-![App Screenshot](https://www.dw.com/en/10-things-about-the-titanic-you-probably-didnt-know/a-61368562)
+![59775562_101](https://user-images.githubusercontent.com/76897778/177719847-864d586b-ca09-41a3-832b-56b0bc537196.jpg)
+
 
 ## Overview
 
